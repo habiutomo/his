@@ -75,4 +75,4 @@ Register a new account using the registration form.
 
 ## License
 
-MIT
+habizinnia@gmail.com
